@@ -198,6 +198,10 @@ cython_debug/
 # Temporary file for partial code execution
 tempCodeRunnerFile.py
 
+# Local data processing scripts
+data/convertToSQLite.py
+data/rawDataProcessed.py
+
 # Ruff stuff:
 .ruff_cache/
 
