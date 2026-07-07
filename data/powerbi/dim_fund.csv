@@ -1,0 +1,41 @@
+amfi_code,fund_house,scheme_name,category,sub_category,plan_type,fund_manager,risk_category,expense_ratio_pct,sebi_category_code
+119551,SBI Mutual Fund,SBI Bluechip Fund - Regular Plan - Growth,Equity,Large Cap,Regular,Sohini Andani,Moderate,1.54,EC01
+119552,SBI Mutual Fund,SBI Bluechip Fund - Direct Plan - Growth,Equity,Large Cap,Direct,Sohini Andani,Moderate,0.66,EC01
+119598,SBI Mutual Fund,SBI Small Cap Fund - Regular Plan - Growth,Equity,Small Cap,Regular,R. Srinivasan,Very High,1.43,EC03
+119599,SBI Mutual Fund,SBI Small Cap Fund - Direct Plan - Growth,Equity,Small Cap,Direct,R. Srinivasan,Very High,0.72,EC03
+119120,SBI Mutual Fund,SBI Magnum Gilt Fund - Regular Plan - Growth,Debt,Gilt,Regular,Dinesh Ahuja,Low,0.77,DC02
+100016,HDFC Mutual Fund,HDFC Top 100 Fund - Regular Plan - Growth,Equity,Large Cap,Regular,Rahul Baijal,Moderate,1.55,EC01
+125497,HDFC Mutual Fund,HDFC Top 100 Fund - Direct Plan - Growth,Equity,Large Cap,Direct,Rahul Baijal,Moderate,0.92,EC01
+100033,HDFC Mutual Fund,HDFC Mid-Cap Opportunities Fund - Regular - Growth,Equity,Mid Cap,Regular,Chirag Setalvad,High,1.38,EC02
+125498,HDFC Mutual Fund,HDFC Mid-Cap Opportunities Fund - Direct - Growth,Equity,Mid Cap,Direct,Chirag Setalvad,High,0.78,EC02
+100025,HDFC Mutual Fund,HDFC Short Term Debt Fund - Regular - Growth,Debt,Short Duration,Regular,Anil Bamboli,Low,0.56,DC02
+120503,ICICI Prudential MF,ICICI Pru Bluechip Fund - Regular - Growth,Equity,Large Cap,Regular,Anish Tawakley,Moderate,1.42,EC01
+120504,ICICI Prudential MF,ICICI Pru Bluechip Fund - Direct - Growth,Equity,Large Cap,Direct,Anish Tawakley,Moderate,0.8,EC01
+120505,ICICI Prudential MF,ICICI Pru Midcap Fund - Regular - Growth,Equity,Mid Cap,Regular,Sankaran Naren,High,1.36,EC02
+120506,ICICI Prudential MF,ICICI Pru Value Discovery Fund - Regular - Growth,Equity,Value,Regular,Sankaran Naren,Moderately High,1.41,EC06
+120507,ICICI Prudential MF,ICICI Pru Liquid Fund - Regular - Growth,Debt,Liquid,Regular,Rahul Goswami,Low,0.74,DC01
+118632,Nippon India MF,Nippon India Large Cap Fund - Regular - Growth,Equity,Large Cap,Regular,Sailesh Raj Bhan,Moderate,1.51,EC01
+118633,Nippon India MF,Nippon India Large Cap Fund - Direct - Growth,Equity,Large Cap,Direct,Sailesh Raj Bhan,Moderate,0.72,EC01
+118634,Nippon India MF,Nippon India Small Cap Fund - Regular - Growth,Equity,Small Cap,Regular,Samir Rachh,Very High,1.53,EC03
+118635,Nippon India MF,Nippon India ETF Nifty 50 BeES,Equity,Index/ETF,Direct,Vishal Jain,Moderate,0.89,EI01
+118636,Nippon India MF,Nippon India Gilt Securities Fund - Regular - Growth,Debt,Gilt,Regular,Vivek Sharma,Low,0.55,DC02
+120841,Kotak Mahindra MF,Kotak Bluechip Fund - Regular - Growth,Equity,Large Cap,Regular,Harsha Upadhyaya,Moderate,1.59,EC01
+120842,Kotak Mahindra MF,Kotak Emerging Equity Fund - Regular - Growth,Equity,Mid Cap,Regular,Pankaj Tibrewal,High,1.56,EC02
+120843,Kotak Mahindra MF,Kotak Flexicap Fund - Regular - Growth,Equity,Flexi Cap,Regular,Pankaj Tibrewal,Moderately High,1.45,EC04
+120844,Kotak Mahindra MF,Kotak Liquid Fund - Regular - Growth,Debt,Liquid,Regular,Deepak Agrawal,Low,0.6,DC01
+119092,Axis Mutual Fund,Axis Bluechip Fund - Regular - Growth,Equity,Large Cap,Regular,Shreyash Devalkar,Moderate,1.64,EC01
+119093,Axis Mutual Fund,Axis Bluechip Fund - Direct - Growth,Equity,Large Cap,Direct,Shreyash Devalkar,Moderate,0.75,EC01
+119094,Axis Mutual Fund,Axis Midcap Fund - Regular - Growth,Equity,Mid Cap,Regular,Jinesh Gopani,High,1.38,EC02
+119095,Axis Mutual Fund,Axis Small Cap Fund - Regular - Growth,Equity,Small Cap,Regular,Anupam Tiwari,Very High,1.38,EC03
+101206,Aditya Birla Sun Life MF,ABSL Frontline Equity Fund - Regular - Growth,Equity,Large Cap,Regular,Mahesh Patil,Moderate,1.6,EC01
+101207,Aditya Birla Sun Life MF,ABSL Small Cap Fund - Regular - Growth,Equity,Small Cap,Regular,Mircea Ciobanu,Very High,1.53,EC03
+101208,Aditya Birla Sun Life MF,ABSL Liquid Fund - Regular - Growth,Debt,Liquid,Regular,Maneesh Dangi,Low,0.79,DC01
+102885,UTI Mutual Fund,UTI Nifty 50 Index Fund - Regular - Growth,Equity,Index,Regular,Sharwan Kumar Goyal,Moderate,1.57,EI01
+102886,UTI Mutual Fund,UTI Mid Cap Fund - Regular - Growth,Equity,Mid Cap,Regular,V Srivatsa,High,1.51,EC02
+102887,UTI Mutual Fund,UTI Flexi Cap Fund - Regular - Growth,Equity,Flexi Cap,Regular,Ajay Tyagi,Moderately High,1.64,EC04
+148567,Mirae Asset MF,Mirae Asset Large Cap Fund - Regular - Growth,Equity,Large Cap,Regular,Gaurav Misra,Moderate,1.46,EC01
+148568,Mirae Asset MF,Mirae Asset Emerging Bluechip Fund - Regular - Growth,Equity,Large & Mid Cap,Regular,Neelesh Surana,Moderately High,1.52,EC04
+148569,Mirae Asset MF,Mirae Asset Tax Saver Fund - Regular - Growth,Equity,ELSS,Regular,Neelesh Surana,High,1.6,EC05
+149322,DSP Mutual Fund,DSP Top 100 Equity Fund - Regular - Growth,Equity,Large Cap,Regular,Apoorva Shah,Moderate,1.54,EC01
+149323,DSP Mutual Fund,DSP Midcap Fund - Regular - Growth,Equity,Mid Cap,Regular,Vinit Sambre,High,1.61,EC02
+149324,DSP Mutual Fund,DSP Small Cap Fund - Regular - Growth,Equity,Small Cap,Regular,Vinit Sambre,Very High,1.52,EC03

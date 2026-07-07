@@ -1,0 +1,28 @@
+{
+  "name": "Bluestock MF",
+  "dataColors": ["#1E3A5F", "#2E86C1", "#3498DB", "#85C1E9", "#154360", "#2471A3", "#AED6F1", "#7FB3D8", "#D4E6F1", "#1B4F72"],
+  "background": "#F4F6F7",
+  "foreground": "#1C2833",
+  "tableAccent": "#1E3A5F",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "outspace": [{"color": {"solid": {"color": "#F4F6F7"}}}],
+        "background": [{"color": {"solid": {"color": "#FFFFFF"}}, "transparency": 0}],
+        "border": [{"color": {"solid": {"color": "#D5D8DC"}}}]
+      }
+    },
+    "kpi": {
+      "*": {
+        "kpi": [{"transparency": 0}],
+        "kpiGoal": [{"transparency": 0}],
+        "kpiStatus": [{"transparency": 0}]
+      }
+    },
+    "card": {
+      "*": {
+        "card": [{"outline": "#1E3A5F", "outlineWeight": 2}]
+      }
+    }
+  }
+}
